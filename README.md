@@ -8,7 +8,3 @@ and I always try to learn something **new**
 ### Contact
 
 [Discord](https://discord.com/users/830394727684898856) [Twitter](https://twitter.com/GmBodhi) [Email](mailto:bodhigm3@gmail.com)
-
-### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1p70tkmr9rtsc10slifx8uq7y&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=1p70tkmr9rtsc10slifx8uq7y&redirect=true)
-<img src="https://visitor-badge.glitch.me/badge?page_id=GmBodhi" style="display:none">
