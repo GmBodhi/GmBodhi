@@ -9,8 +9,8 @@ and I always try to learn something **new**
 
 [Discord](https://discord.com/users/830394727684898856) [Twitter](https://twitter.com/GmBodhi) [Email](mailto:bodhigm3@gmail.com)
 
-### Stats
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/830394727684898856)](https://discord.com/users/830394727684898856)
 
-[![](https://github-readme-stats.vercel.app/api?username=GmBodhi&theme=onedark&layout=compact&include_all_commits=true)](#)
+### Stats
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=gmbodhi&theme=radical)](#)
