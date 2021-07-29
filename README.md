@@ -1,9 +1,7 @@
 
 ### Hi there..!
 
-I'm Gm <br />
-I love JavaScript, TypeScript, C++, HTML, CSS, Bash <br />
-and I always try to learn something **new**
+I'm Gm
 
 ### Contact
 
