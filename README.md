@@ -1,7 +1,7 @@
 
 ### Hi there..!
 
-I'm Gautam
+I'm Gautam, abbreviated as Gm
 
 ### Contact
 
