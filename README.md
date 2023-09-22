@@ -1,7 +1,7 @@
 
 ### Hi there..!
 
-I'm Gautam, abbreviated as Gm aka GmBodhi.
+I'm **Gautam**, abbreviated as **Gm** aka **GmBodhi**.
 
 ### Contact
 
